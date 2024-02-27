@@ -21,6 +21,7 @@ npm install
 ```sh
 npm run dev
 ```
+link vercel https://pwa-fakestore-rust.vercel.app/
 
 ### Compile and Minify for Production
 
